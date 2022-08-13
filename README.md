@@ -1,15 +1,20 @@
 ![MasterHead](https://i.postimg.cc/52mTZpwb/20220813-180213.jpg)
 <h1 align="center">Hi 👋, I'm Nicolas Pavon</h1>
-<h3 align="center">A Full Stack Programmer from Buenos Aires, Argentina</h3>
+<h3 align="center">A Full Stack Programmer from Buenos Aires, Argentina 🗺</h3>
+
+<p align ="center"> I am a proactive, responsible, creative person, with the ability to adapt to different environments. With marked experience in
+accounting and financial tasks focused on Foreign Trade, and after 10 uninterrupted years working in that area, I resigned to dedicate
+myself to Web Development in a self-taught way, to finally professionalize myself through courses and practices in one of the Coding
+Bootcamps most recognized in Latin America.</p>
 <img align="right" alt="Coding" width="400" src="https://rishavanand.github.io/static/images/greetings.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicopavon&label=Profile%20views&color=0e75b6&style=flat" alt="nicopavon" /> </p>
 
 - 🌱 I’m currently learning **Solidity & blockchain projects**
 
-- 📫 How to reach me **nicosubealanube@gmail.com**
+- 📫 How to reach me **nicosubealanube@gmail.com** or ☎ **+54 11-44001518**
 
-- ⚡ Fun fact **i'm a movie screenwriter..**
+- ⚡ Fun fact: **i'm a movie screenwriter... 🎥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
