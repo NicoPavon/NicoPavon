@@ -12,7 +12,8 @@ Bootcamps most recognized in Latin America.</p>
 
 - 🌱 I’m currently learning **Solidity & blockchain projects**
 
-- 📫 How to reach me **nicosubealanube@gmail.com** or ☎ **+54 11-44001518**
+- 📫 How to reach me **nicosubealanube@gmail.com** 
+  or ☎ **+54 11-44001518**
 
 - ⚡ Fun fact: **i'm a movie screenwriter... 🎥**
 
