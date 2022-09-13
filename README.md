@@ -10,7 +10,7 @@ Bootcamps most recognized in Latin America.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicopavon&label=Profile%20views&color=0e75b6&style=flat" alt="nicopavon" /> </p>
 
-- 🌱 I’m currently learning **Solidity & blockchain projects**
+- 🌱 I’m currently in the NEAR Developer Program, awarded a scholarship by Platzi to be a Near Developer!
 
 - 📫 How to reach me **nicosubealanube@gmail.com** 
 - or ☎ **+54 11-44001518**
