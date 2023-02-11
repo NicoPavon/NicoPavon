@@ -2,15 +2,14 @@
 <h1 align="center">Hi 👋, I'm Nicolas Pavon</h1>
 <h3 align="center">A Full Stack Programmer from Buenos Aires, Argentina 🗺</h3>
 
-<p align ="center"> I am a proactive, responsible, creative person, with the ability to adapt to different environments. With marked experience in
-accounting and financial tasks focused on Foreign Trade, and after 10 uninterrupted years working in that area, I resigned to dedicate
-myself to Web Development in a self-taught way, to finally professionalize myself through courses and practices in one of the Coding
-Bootcamps most recognized in Latin America.</p>
+<p align ="center"> My name is Nicolás and I currently work as a developer at the German multinational Boehringer Ingelheim. I consider myself a proactive, creative person, with the ability to adapt to different environments; always prioritizing teamwork, with active listening and a lot of empathy.
+
+Keep in touch!.</p>
 <img align="right" alt="Coding" width="400" src="https://rishavanand.github.io/static/images/greetings.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicopavon&label=Profile%20views&color=0e75b6&style=flat" alt="nicopavon" /> </p>
 
-- 🌱 I am currently doing the Web Programming internship in PHP and MySQL / DevOps / QA Man and Aut for ASAP Consulting!
+- 🌱 I am currently preparing a project in php with laravel 9 for Boehringer Ingelheim!!
 
 - 📫 How to reach me **nicosubealanube@gmail.com** 
 - or ☎ **+54 11-44001518**
