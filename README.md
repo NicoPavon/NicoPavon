@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/52mTZpwb/20220813-180213.jpg)
+![MasterHead](https://i.postimg.cc/NM4kCpBV/boeh.jpg)
 <h1 align="center">Hi 👋, I'm Nicolas Pavon</h1>
 <h3 align="center">A Developer from Buenos Aires, Argentina 🗺</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicopavon&label=Profile%20views&color=0e75b6&style=flat" alt="nicopavon" /> </p>
 
-- 🌱 I am currently preparing a project in php with laravel 9 for Boehringer Ingelheim!!
+- 🌱 I am currently preparing a project in php with laravel 9 called "Brainhead" with four other developers!
 
 - 📫 How to reach me **nicosubealanube@gmail.com** 
 - or ☎ **+54 11-44001518**
