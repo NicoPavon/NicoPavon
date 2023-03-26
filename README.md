@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Pavon</h1>
 <h3 align="center">A Developer from Buenos Aires, Argentina 🗺</h3>
 
-<p align ="center">My name is Nicolás and I currently work as a developer at the German multinational Boehringer Ingelheim. I consider myself a proactive, creative person, with the ability to adapt to different environments; always prioritizing teamwork, with active listening and a lot of empathy.</p>
+<p align ="center">I currently work as a developer at the German multinational Boehringer Ingelheim. I consider myself a proactive, creative person, with the ability to adapt to different environments; always prioritizing teamwork, with active listening and a lot of empathy.</p>
 <img align="right" alt="Coding" width="400" src="https://rishavanand.github.io/static/images/greetings.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicopavon&label=Profile%20views&color=0e75b6&style=flat" alt="nicopavon" /> </p>
